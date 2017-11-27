@@ -1,0 +1,22 @@
+name: Basis
+type: theme
+base theme: stable
+Description: "A modern & responsive Drupal 8 Theme"
+package: custom
+core: 8.x
+libraries:
+  - pschousingStable/global-css
+  - pschousingStable/global-js
+
+stylesheets-remove:
+  - core/assets/vendor/normalize-css/normalize.css
+  - core/modules/system/css/system.module.css
+  - core/modules/system/css/system.theme.css
+  - core/modules/views/css/views.module.css
+  
+regions:
+      headline: headline
+      header: header
+      content: content
+      sidebar: sidebar
+      footer: Footer
