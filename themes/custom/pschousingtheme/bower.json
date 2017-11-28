@@ -1,0 +1,17 @@
+{
+  "name": "pschousingtheme",
+  "homepage": "https://github.com/manoxs/pschousing",
+  "description": "theme for pscHousing",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}

@@ -27,3 +27,9 @@
       $variables['#attached']['library'][] = 'pschousingStable/fancy-effect';
     }
   }
+
+  function pschousingStable_preprocess_node(&$variables) {
+   if($variables['logged_in']==True && $variables['node']->getOwnerId()==$variables['user']->id()){
+      $variables['label']['#suffix'] = '[ you are the author]';
+   }
+  }
