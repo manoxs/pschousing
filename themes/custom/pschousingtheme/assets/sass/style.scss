@@ -54,3 +54,112 @@
 // Utility classes
 @import "../../bootstrap/stylesheets/bootstrap/utilities";
 @import "../../bootstrap/stylesheets/bootstrap/responsive-utilities";
+//
+// // bower:scss
+// @import "bower_components/bootstrap/assets/stylesheets/_bootstrap.scss";
+// // @import "bower_components/bootstrap/scss/bootstrap.scss";
+// @import "bower_components/slick-carousel/slick/slick.scss";
+// @import "bower_components/font-awesome/scss/font-awesome.scss";
+// // endbower
+//
+// // fonts
+// @font-face {
+//   font-family: 'AvantGarde';
+//   //src: url('webfont.eot'); /* IE9 Compat Modes */
+//   src: url('../fonts/avgb.ttf')  format('truetype'); /* Safari, Android, iOS */
+//        //url('webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+//        //url('webfont.woff2') format('woff2'), /* Super Modern Browsers */
+//        //url('webfont.woff') format('woff'), /* Pretty Modern Browsers */
+//        //url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+// }
+//
+// body {
+//   font-family: 'AvantGarde';
+// }
+//
+// .browserupgrade {
+//   margin: 0.2em 0;
+//   background: #ccc;
+//   color: #000;
+//   padding: 0.2em 0;
+// }
+//
+// .carousel {
+//   .carousel-caption {
+//     bottom: 150px;
+//   }
+// }
+//
+// .mission {
+//   padding: 80px 130px;
+//   h2 {
+//     font-weight: 200;
+//     margin-bottom: 30px;
+//     text-transform: uppercase;
+//   }
+//   .btn {
+//     margin-top: 30px;
+//     background-color: #15397f;
+//     border-radius: 0;
+//     padding-left: 25px;
+//     padding-right: 25px;
+//   }
+// }
+//
+// .partners {
+//   padding: 80px 130px;
+//   h2 {
+//     font-weight: 200;
+//     margin-bottom: 30px;
+//     text-transform: uppercase;
+//   }
+//   .slick-partners {
+//     margin-top: 60px;
+//   }
+// }
+//
+// /* Custom page footer */
+// .footer {
+//   text-align: center;
+//   padding-top: 60px;
+//   padding-bottom: 60px;
+//   background-color: #f8f9fa;
+//
+//   .row {
+//     margin-bottom: 25px;
+//
+//     &:last-child {
+//       margin-top: 40px;
+//     }
+//
+//     .list-inline {
+//       .list-inline-item {
+//         padding-left: 10px;
+//         padding-right: 20px;
+//         border-right: 1px solid #9f3515;
+//
+//         &:last-child {
+//           border-right: none;
+//         }
+//       }
+//     }
+//
+//     .input-group {
+//       .form-control {
+//         border-color: transparent;
+//       }
+//       .btn-default {
+//         border-radius: 0;
+//         background-color: #9f3515;
+//         color: #fff;
+//       }
+//     }
+//
+//     .social-media {
+//       text-align: left;
+//       i {
+//         margin-right: 20px;
+//       }
+//     }
+//   }
+// }

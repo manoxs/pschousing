@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "font-awesome": "fontawesome#^4.7.0",
-    "bootstrap": "bootstrap-sass-official#^3.3.7",
+    "bootstrap": "^3.3.7",
     "modernizr": "^3.5.0",
     "slick-carousel": "^1.8.1"
   }
