@@ -4,3 +4,4 @@ bower_components
 site/*/settings*.php
 sites/*/files
 sites/*/private
+vendor
